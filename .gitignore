@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+.venv/
+myenv/
+venv/
+backend/benchmark_results.json
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+*.egg-info/
+.DS_Store
